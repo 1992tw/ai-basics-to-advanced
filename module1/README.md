@@ -1,5 +1,5 @@
 ## Overview
-This module, 'AI Basics to Advanced,' is designed to provide learners with a comprehensive understanding of artificial intelligence. It starts with foundational concepts and progresses through advanced techniques and applications, ensuring a complete grasp of AI's potential and challenges. By the end of the module, students will be equipped with the knowledge and skills to apply AI methods across various domains.
+START HERE !!!! This module, 'AI Basics to Advanced,' is designed to provide learners with a comprehensive understanding of artificial intelligence. It starts with foundational concepts and progresses through advanced techniques and applications, ensuring a complete grasp of AI's potential and challenges. By the end of the module, students will be equipped with the knowledge and skills to apply AI methods across various domains.
 
 ## Topics
 1. Introduction to AI: Concepts and Definitions
